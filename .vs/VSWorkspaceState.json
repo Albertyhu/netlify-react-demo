@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\posts",
+    "\\public",
+    "\\public\\admin",
+    "\\public\\images",
+    "\\src",
+    "\\src\\components",
+    "\\src\\pages",
+    "\\src\\pages\\blog",
+    "\\src\\pages\\home"
+  ],
+  "SelectedNode": "\\src\\App.js",
+  "PreviewInSolutionExplorer": false
+}
