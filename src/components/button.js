@@ -1,15 +1,16 @@
 import styled from "styled-components";
 
 const Button = styled.div`
-  width: 100%;
+  width: 100px;
   text-align: center;
-  background-color: ${(props) => props.BackgroundColor || "#333333"};
-  color: ${(props) => props.Color || "#000000"};
+  background-color: ${(props) => props.BackgroundColor || "blue"};
+  color: ${(props) => props.Color || "#ffffff"};
   border-radius: 5px;
   cursor: pointer;
   user-select: none;
   white-space: nowrap;
   padding: 10px 0;
+  margin: 20px auto;
   opacity: ${(props) => props.Opacity || "1.0"};
   &:active {
     transform: ${(props) =>
